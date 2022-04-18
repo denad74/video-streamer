@@ -1,0 +1,35 @@
+{
+  "streams": [
+    {
+      "title": "My stream",
+      "description": "This is my stream",
+      "id": 1
+    },
+    {
+      "title": "My stream 2",
+      "description": "Description of stream two",
+      "id": 2
+    },
+    {
+      "title": "My stream 3",
+      "description": "Descrioption of my stream",
+      "id": 3
+    },
+    {
+      "title": "MY stemcic",
+      "description": "My description",
+      "id": 4
+    },
+    {
+      "title": "I created with userID",
+      "description": "My stream with userID promjena",
+      "id": 5
+    },
+    {
+      "title": "dddd",
+      "description": "jdjjjd",
+      "userId": "114653317847913295459",
+      "id": 6
+    }
+  ]
+}
